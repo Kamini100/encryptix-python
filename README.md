@@ -1,4 +1,4 @@
-# encryptix-python
+# python - single page appliations
 I have created some small projects using python and GUI (Graphic User Interface).
 Calculator : A basic Arithmatic calculation that can perform arithmatic operations on two numbers.
 Game (rsp) : A game Rock, Paper and Scissor using GUI and python. 
